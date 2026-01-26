@@ -8,8 +8,9 @@ I enjoy turning ideas into bold, usable interfaces.
 Currently building strong foundations in frontend development, UI/UX, and design systems.
 
 ### 🛠 Tech & Tools
-``` - HTML, CSS, JavaScript
-- React, Tailwind CSS, Framer Motion
+```
+- HTML, CSS, JavaScript
+- Tailwind CSS, Framer Motion
 - Figma, UI/UX Design
 - Git, GitHub
 - Node.js (foundational)
@@ -23,11 +24,9 @@ Currently building strong foundations in frontend development, UI/UX, and design
 ```
 
 ### 📫 Connect
-```
 - Portfolio: https://aishwaryaanair.vercel.app  
 - GitHub: @aishwaryanair440  
 - LinkedIn: aishwarya-a-nair
-```
 
 
 <!--
