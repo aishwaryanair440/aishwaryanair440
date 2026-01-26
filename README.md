@@ -1,1 +1,1 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=20&pause=900&color=00FF9C&width=500&lines=Loading+player+profile...;Class%3A+UI%2FUX+Designer;Skill+Unlocked%3A+Frontend+Dev)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=1200&color=F75C7E&width=500&lines=UI%2FUX+Designer+who+codes.;Frontend+Developer+who+designs.;Learning+in+public.)
