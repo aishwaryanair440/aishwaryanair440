@@ -1,1 +1,3 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=1200&color=F75C7E&width=500&lines=UI%2FUX+Designer+who+codes.;Frontend+Developer+who+designs.;Learning+in+public.)
+![React](https://img.shields.io/badge/React-000?style=flat&logo=react)
+![Figma](https://img.shields.io/badge/Figma-000?style=flat&logo=figma)
+![Tailwind](https://img.shields.io/badge/Tailwind-000?style=flat&logo=tailwindcss)
