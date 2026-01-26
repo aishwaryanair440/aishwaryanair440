@@ -1,45 +1,20 @@
 ## Hi, I'm Aishwarya 👋
 
-Junior UI/UX Designer & Frontend Developer  
-1st Year B.Tech IT Student @ GEC Palakkad  
-No/Low Code & Open Source Enthusiast
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F75C7E&width=435&lines=Hi%2C+I'm+Aishwarya+%F0%9F%91%8B;UI%2FUX+Designer+%26+Frontend+Dev;1st+Year+BTech+IT+Student+@+GEC+Palakkad)
 
-I enjoy turning ideas into bold, usable interfaces.  
-Currently building strong foundations in frontend development, UI/UX, and design systems.
+```bash
+@aishwaryanair440
+$ whoami
+Junior UI/UX Designer & Frontend Developer
 
-### 🛠 Tech & Tools
-```
-- HTML, CSS, JavaScript
-- Tailwind CSS, Framer Motion
-- Figma, UI/UX Design
-- Git, GitHub
-- Node.js (foundational)
-```
+$ education
+1st Year B.Tech IT @ GEC Palakkad
 
-### 🌱 Currently
-```
-- Design Volunteer @ TinkerHub GEC Palakkad  
-- Documentation Lead @ GDG GEC Palakkad  
-- Documentation Volunteer @ INVENTO ’26
-```
+$ interests
+UI/UX • Frontend • No/Low Code • Open Source
 
-### 📫 Connect
-- Portfolio: https://aishwaryaanair.vercel.app  
-- GitHub: @aishwaryanair440  
-- LinkedIn: aishwarya-a-nair
+$ currently
+Design Volunteer @ TinkerHub
+Documentation Lead @ GDG GEC Palakkad
 
-
-<!--
-**aishwaryanair440/aishwaryanair440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ exit
